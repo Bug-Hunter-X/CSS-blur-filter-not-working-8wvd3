@@ -1,0 +1,1 @@
+The CSS property `filter: blur()` is applied to an element, but it does not work as expected. The element remains sharp and unblurred. This can happen due to several reasons, such as incorrect CSS selector, conflicting styles, or the element not being rendered properly.
